@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    int matrixrows = 3; 
+    int matrixcolumns = 3;
+
+    int *matrix = new int[matrixrows *matrixcolumns];
+    int *vector = new int[matrixcolumns];
+    int *result = new int[matrixrows];
+
+    // temp matrix to store the data
+    int testmatrix[3][3] = {
+
+    }
+}
